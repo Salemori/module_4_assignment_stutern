@@ -1,0 +1,128 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-image: url("./images/smileys.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+}
+
+#cover {
+    border: 2px inset #b6b623;
+    border-width: 10px;
+    width: 400px;
+    margin: auto;
+    background-color: whitesmoke;
+
+}
+
+/* header and p tag */
+h1,
+h2,
+h4,
+p {
+    font-size: large;
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    width: 315px;
+    color: purple;
+}
+
+h1 {
+    font-size: x-large;
+    border: none;
+    margin: auto;
+    width: 315px;
+}
+
+h2,
+p {
+    background-color: darkkhaki;
+
+}
+
+#h2_dislike {
+    background-color: darkmagenta;
+    color: gold;
+    margin-top: 20px;
+}
+
+#final_comment {
+    background-color: none;
+    border: none;
+}
+
+
+/* list parent tag */
+.parent_tag {
+    list-style: none;
+    text-align: center;
+    /* border: 1px gray; */
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 315px;
+    color: purple;
+    border-width: 12px;
+    color: black;
+}
+
+/* list child tag */
+.list_item {
+    width: 150px;
+    border-width: 1px;
+    text-align: center;
+    border-bottom: 2px dotted gray;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#ol_item1 {
+    color: gray;
+}
+
+#ol_item2 {
+    color: brown;
+}
+
+#ol_item3 {
+    color: navy;
+}
+
+#ol_item4 {
+    color: darkorange;
+}
+
+#ol_item5 {
+    color: darkgreen;
+}
+
+#ul_item1 {
+    color: navy;
+}
+
+#ul_item2 {
+    color: darkorange;
+}
+
+#ul_item3 {
+    color: darkgreen;
+}
+
+#ul_item4 {
+    color: purple
+}
+
+#ul_item5 {
+    color: gray;
+}
