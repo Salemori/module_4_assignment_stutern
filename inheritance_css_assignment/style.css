@@ -2,6 +2,8 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* Please Note: the background image used in this project is not royalty-fee.
+It cannot be used outside this project, it's used mainly for practice purpose. */
 body {
     background-image: url("./images/smileys.jpg");
     background-repeat: no-repeat;
