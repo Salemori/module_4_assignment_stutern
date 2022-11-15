@@ -1,0 +1,50 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: white;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+p {
+    border: 2px solid gold;
+    padding: 15px;
+    text-align: center;
+}
+
+#background_cover {
+    background-color: white;
+    border: 2px solid goldenrod;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+#first_section {
+    color: green;
+    border: 2px solid green;
+    background-color: linen;
+}
+
+.page_section {
+    font-size: 14px;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+#second_scetion {
+    color: red;
+    background-color: lightgray;
+    border: 2px solid red;
+}
+
+#third_section {
+    color: blue;
+    border: 2px solid blue;
+    background-color: lightyellow;
+}
